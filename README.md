@@ -3,7 +3,7 @@ Translate japanese text using jisho.org results.
 
 **Requirements**
 
-phantom.exe must be installed and in your path (or in the project folder)
+phantomjs.exe must be installed and in your path (or in the project folder)
 
 
 **How to use :**
